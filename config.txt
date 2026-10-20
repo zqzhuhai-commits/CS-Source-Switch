@@ -1,0 +1,14 @@
+screen_width -1
+screen_height -1
+lang english
+show_fps 0
+gamepad 1
+console 0
+gyro_enabled 1
+gyro_sensitivity_x 200
+gyro_sensitivity_y 150
+gyro_invert_x 0
+gyro_invert_y 0
+gyro_space 2
+gyro_tighten 1
+gyro_accel 1
